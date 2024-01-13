@@ -1,4 +1,7 @@
-# CI-CD
+<div align="center" style="background-color: #4CAF50; color: #fff; padding: 20px;">
+  <h1 style="font-size: 36px;">CI/CD</h1>
+  <p style="font-size: 18px;">Continuous Integration and Continuous Deployment</p>
+</div>
 
 # Overview
 
